@@ -21,4 +21,4 @@ This project showcases the development of a conversational question-and-answer c
 *  **.env:** Used to store the GOOGLE_API_KEY securely.
 
 **Note:**
-*  **You need to have GEMINI API Key in .env file to run the application sucessfully. Due to sensitive information i.e API Key, the .env file is not been saved in the repository.
+*  You need to have GOOGLE_API_KEY="YOUR RESPECTIVE API KEY" mentioned in the .env file to run the application sucessfully. Due to sensitive information the .env file is not been saved in the repository.
