@@ -19,3 +19,6 @@ This project showcases the development of a conversational question-and-answer c
 *   **Streamlit:** Framework for building the interactive web application.
 *   **asyncio:** Python library for asynchronous programming.
 *  **.env:** Used to store the GOOGLE_API_KEY securely.
+
+**Note:**
+*  **You need to have GEMINI API Key in .env file to run the application sucessfully. Due to sensitive information i.e API Key, the .env file is not been saved in the repository.
